@@ -1,4 +1,4 @@
-# Applied-Data-Science-Capstone-with-Python
+# Applied-Data-Science-Capstone-Project-with-Python
 
 
 
